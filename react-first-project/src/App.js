@@ -3,7 +3,7 @@ import './App.css';
 import { Routes , Route } from 'react-router-dom';
 import { connect } from 'react-redux';
 import { initializeApp } from './redux/AppReducer';
-import ProfileContainer from './components/Profile/profileContainer';
+// import ProfileContainer from './components/Profile/profileContainer';
 import Menu from './components/Menu/Menu';
 import News from './components/News/News';
 import Music from './components/Music/Music';
@@ -14,7 +14,9 @@ import UsersContainer from './components/Users/UsersContainer';
 import HeaderContainer from './components/Header/HeaderContainer';
 import Preloader from './components/common/preloader';
 import { Suspense } from 'react';
+
 const DialogsContainer = React.lazy(() => import('./components/Dialogs/DialogsContainer'));
+const ProfileContainer = React.lazy(() => import('../components/Profile/profileContainer'));
 
 class App extends React.Component {
 
