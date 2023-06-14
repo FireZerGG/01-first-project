@@ -44,7 +44,7 @@ class App extends React.Component {
             <Route path='/dialogs' element={
               <Suspense fallback = {<Preloader />}>
                 <DialogsContainer />
-              </Suspense>} />
+              </Suspense>}  />
             <Route path='/news' element={<News />} />
             <Route path='/users' element={<UsersContainer />} />
             <Route path='/music' element={<Music />} />
