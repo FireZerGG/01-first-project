@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/https//FireZerGG.github.io/01-first-project/static/css/main.f5a3e483.css",
-    "main.js": "/https//FireZerGG.github.io/01-first-project/static/js/main.a0bf2f2c.js",
-    "static/css/574.9e517421.chunk.css": "/https//FireZerGG.github.io/01-first-project/static/css/574.9e517421.chunk.css",
-    "static/js/574.795a312c.chunk.js": "/https//FireZerGG.github.io/01-first-project/static/js/574.795a312c.chunk.js",
-    "static/media/userDefaultAvatar.jpg": "/https//FireZerGG.github.io/01-first-project/static/media/userDefaultAvatar.f371d222cf9298e7e3b9.jpg",
-    "static/media/preloader.svg": "/https//FireZerGG.github.io/01-first-project/static/media/preloader.798efc6c62e550e8488855bdf8d421ee.svg",
-    "static/media/preloader2.svg": "/https//FireZerGG.github.io/01-first-project/static/media/preloader2.2b5f199f1198342b3c701bc75f9fbe8d.svg",
-    "index.html": "/https//FireZerGG.github.io/01-first-project/index.html",
-    "main.f5a3e483.css.map": "/https//FireZerGG.github.io/01-first-project/static/css/main.f5a3e483.css.map",
-    "main.a0bf2f2c.js.map": "/https//FireZerGG.github.io/01-first-project/static/js/main.a0bf2f2c.js.map",
-    "574.9e517421.chunk.css.map": "/https//FireZerGG.github.io/01-first-project/static/css/574.9e517421.chunk.css.map",
-    "574.795a312c.chunk.js.map": "/https//FireZerGG.github.io/01-first-project/static/js/574.795a312c.chunk.js.map"
+    "main.css": "/https//fireZerGG.github.io/01-first-project/static/css/main.f5a3e483.css",
+    "main.js": "/https//fireZerGG.github.io/01-first-project/static/js/main.e05e943c.js",
+    "static/css/574.9e517421.chunk.css": "/https//fireZerGG.github.io/01-first-project/static/css/574.9e517421.chunk.css",
+    "static/js/574.795a312c.chunk.js": "/https//fireZerGG.github.io/01-first-project/static/js/574.795a312c.chunk.js",
+    "static/media/userDefaultAvatar.jpg": "/https//fireZerGG.github.io/01-first-project/static/media/userDefaultAvatar.f371d222cf9298e7e3b9.jpg",
+    "static/media/preloader.svg": "/https//fireZerGG.github.io/01-first-project/static/media/preloader.798efc6c62e550e8488855bdf8d421ee.svg",
+    "static/media/preloader2.svg": "/https//fireZerGG.github.io/01-first-project/static/media/preloader2.2b5f199f1198342b3c701bc75f9fbe8d.svg",
+    "index.html": "/https//fireZerGG.github.io/01-first-project/index.html",
+    "main.f5a3e483.css.map": "/https//fireZerGG.github.io/01-first-project/static/css/main.f5a3e483.css.map",
+    "main.e05e943c.js.map": "/https//fireZerGG.github.io/01-first-project/static/js/main.e05e943c.js.map",
+    "574.9e517421.chunk.css.map": "/https//fireZerGG.github.io/01-first-project/static/css/574.9e517421.chunk.css.map",
+    "574.795a312c.chunk.js.map": "/https//fireZerGG.github.io/01-first-project/static/js/574.795a312c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f5a3e483.css",
-    "static/js/main.a0bf2f2c.js"
+    "static/js/main.e05e943c.js"
   ]
 }
